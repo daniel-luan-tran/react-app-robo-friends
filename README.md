@@ -68,4 +68,11 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
 # react-app-robo-friends
+
+##Create app robo friends:
+##Make app more realistic:
+- Crap user from server https://jsonplaceholder.typicode.com/users instead of from robots.js file
+
+
